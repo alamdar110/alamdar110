@@ -36,20 +36,15 @@ A PHP 8 + Slim backend API demo built to demonstrate clean backend service struc
 
 ---
 
-## Currently Working On
+## Portfolio Focus
 
-- Building backend services for SaaS-style workflows
-- Improving API design, service architecture, and Docker-based development workflows
-- Strengthening public portfolio projects around PHP backend engineering
-- Expanding experience in scalable backend systems, microservices, and integration-heavy platforms
+This GitHub profile is focused on backend engineering projects that demonstrate:
 
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alamdar110&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alamdar110&layout=compact&theme=default&hide_border=true)
+- PHP API development with clean service structure
+- Dockerized local development environments
+- MySQL-backed workflows and migrations
+- REST API design and third-party integration patterns
+- eCommerce channel sync concepts such as products, stock, orders, pricing, and retryable jobs
 
 ---
 
